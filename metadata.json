@@ -1,0 +1,6 @@
+{
+  "name": "Los Hermanos | Authentic Mexican Restaurant in Kinder, LA",
+  "description": "Experience authentic Mexican cuisine, sizzling fajitas, birria tacos, fresh seafood, and signature platters at Los Hermanos in Kinder, Louisiana. View our complete menu, hours, and visit us at 1315 1st Ave.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
